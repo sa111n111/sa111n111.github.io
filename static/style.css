@@ -1,0 +1,22 @@
+/* set space mono as default */
+* {
+    font-family: 'Space Mono', monospace;
+    background-color: rgb(10, 1, 36);
+	  color: rgb(200, 200, 255);
+    text-align: center;
+}
+
+h1 {
+  color: rgb(215, 215, 221);
+  text-align: center;
+  font-size: 100px;
+}
+
+h2 {
+  color: bisque;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 15px;
+}
